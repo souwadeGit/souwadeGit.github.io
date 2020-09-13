@@ -8,7 +8,7 @@ excerpt: "Data Science, Data Wrangling, Messy Data"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Project 1: Proposal and Data Selection
 
 ## H2 Heading
 
