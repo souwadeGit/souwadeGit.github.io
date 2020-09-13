@@ -13,17 +13,18 @@ mathjax: "true"
 ### Project 1: Proposal and Data Selection
 
 **Which Domain?**
+
 Data Sources: World Happiness Report
 The dataset is under the Kaggle website. The World Happiness Report is a landmark survey of the state of global happiness. There are four reports published: the first in 2012, the second in 2013, the third in 2015, and the fourth in 2016. The dataset (World Happiness 2017), which ranks 155 countries by their happiness levels. It was released at the United Nations at an event celebrating the International Day of Happiness on March 20th. 
-**Which Data?
-world-happiness/2017.csv
-world-happiness/2019.csv
-world-happiness/2016.csv
-world-happiness/2015.csv
-world-happiness/2018.csv**
-[link](https://www.kaggle.com/pinarkaya/world-happiness-eda-visualization-ml/notebook)?
+**Which Data?\
+world-happiness/2017.csv\
+world-happiness/2019.csv\
+world-happiness/2016.csv\
+world-happiness/2015.csv\
+world-happiness/2018.csv**\
+[World Happyness Visualization](https://www.kaggle.com/pinarkaya/world-happiness-eda-visualization-ml/notebook)?
 I will examine the dataset for Turkey or any other country in the list. For the moment I do not have a codebook but below is a link to the dataset as well as a detailed description:
-(http://noracook.io/Books/MachineLearning/deeplearningcookbook.pdf)?
+[noracook.io/Books/MachineLearning/deeplearningcookbook](http://noracook.io/Books/MachineLearning/deeplearningcookbook.pdf)?
 https://www.kaggle.com/javadzabihi/happiness-2017-visualization-prediction/report?select=2017.csv
 This dataset gives the happiness rank and happiness score of 155 countries around the world based on seven factors (including family, life expectancy, economy, generosity, trust in government, freedom, and dystopia residual) that provides us the happiness score and the higher the happiness score, the lower the happiness rank. So, it is evident that the higher value of each of these seven factors means the level of happiness is higher. We can define the meaning of these factors as the extent to which these factors lead to happiness. Dystopia is the opposite of utopia and has the lowest happiness level. Dystopia will be considered as a reference for other countries to show how far they are from being the poorest country regarding happiness level.
 
