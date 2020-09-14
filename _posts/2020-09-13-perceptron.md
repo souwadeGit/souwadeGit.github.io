@@ -22,7 +22,8 @@ world-happiness/2017.csv\
 world-happiness/2019.csv\
 world-happiness/2016.csv\
 world-happiness/2015.csv\
-world-happiness/2018.csv**\
+world-happiness/2018.csv**
+
 [World Happyness Visualization](https://www.kaggle.com/pinarkaya/world-happiness-eda-visualization-ml/notebook)?
 I will examine the dataset for Turkey or any other country in the list. For the moment I do not have a codebook but below is a link to the dataset as well as a detailed description:
 [noracook.io/Books/MachineLearning/deeplearningcookbook](http://noracook.io/Books/MachineLearning/deeplearningcookbook.pdf)?
@@ -36,15 +37,16 @@ The purpose of this project is to analyze the dataset by completing the followin
 
 *	Cleaning
 *	Visualization
-*	Prediction etc./
+*	Prediction etc.
+
 What countries or regions rank the highest in overall happiness and each of the six factors contributing to happiness? How did country ranks or scores change between the 2015 and 2016 as well as the 2016 and 2017 reports? Did any country experience a significant increase or decrease in happiness? 
 
-## What Method?
+## Methods 
 Perform exploratory data analysis for examining the data before model selection. The methods I will use are Random Forest, Linear Regression, etc. The Random forest consists of many individual decision trees that operate as an ensemble. Each tree in the random forest spits out a class prediction and the class with the most votes becomes our model’s prediction.
 
 I am planning to do my development on the Jupiter notebook using python. I will be using the notebook as well for the pseudocode. Python packages will be used for developing features, analysis, and testing.
 
-## Potential Issues?
+## Potential Issues
 
 The challenges I do expect having maybe the issue to clean the dataset or having a bad one.  An inaccurate dataset could cause the project to go off schedule. Also, the technology issue (internet connection issue) cannot be ignored for delaying a project.
 
@@ -52,7 +54,7 @@ The challenges I do expect having maybe the issue to clean the dataset or having
 
 The report gains global recognition because governments, organizations, and civil society gradually use happiness indicators to inform their policy-making decisions. Leading experts across fields such as economics, psychology, survey analysis, national statistics, health, public policy describe how measurements of well-being can assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
 
-## Reference:
+## References:
 
 1.	[world-happiness](https://www.kaggle.com/unsdsn/world-happiness)?
 2.	https://www.kaggle.com/pinarkaya/world-happiness-eda-visualization-ml/data#Linear-Regression
