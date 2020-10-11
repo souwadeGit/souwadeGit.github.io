@@ -1,5 +1,5 @@
 ---
-title: "DATA SCIENCE PROJEECT"
+title: "DATA SCIENCE PROJECT"
 date: 2020-09-13
 tags: [data science, data wrangling, messy data]
 header:
