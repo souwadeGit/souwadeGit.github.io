@@ -3,7 +3,7 @@ title: "Project 1 - DSC680"
 date: 2020-10-18
 tags: [MySQL, Python, COVID, R]
 header:
-  image: "/images/hapiness.jpg"
+  image: "/images/happiness.jpg"
 excerpt: "Data Science, Data Wrangling, Messy Data"
 mathjax: "true"
 ---
