@@ -1,9 +1,9 @@
 ---
-title: "Test Post 1"
+title: "Project 1 - DSC680"
 date: 2020-10-18
-tags: [test]
+tags: [MySQL, Python, COVID, R]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/hapiness.jpg"
 excerpt: "Data Science, Data Wrangling, Messy Data"
 mathjax: "true"
 ---
