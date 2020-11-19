@@ -1,5 +1,5 @@
 ---
-title: "DATA SCIENCE PROJECT"
+title: "Project 2"
 date: 2020-09-13
 tags: [data science, data wrangling, messy data]
 header:
@@ -30,7 +30,7 @@ I will examine the dataset for Turkey or any other country in the list. For the 
 https://www.kaggle.com/javadzabihi/happiness-2017-visualization-prediction/report?select=2017.csv
 This dataset gives the happiness rank and happiness score of 155 countries around the world based on seven factors (including family, life expectancy, economy, generosity, trust in government, freedom, and dystopia residual) that provides us the happiness score and the higher the happiness score, the lower the happiness rank. So, it is evident that the higher value of each of these seven factors means the level of happiness is higher. We can define the meaning of these factors as the extent to which these factors lead to happiness. Dystopia is the opposite of utopia and has the lowest happiness level. Dystopia will be considered as a reference for other countries to show how far they are from being the poorest country regarding happiness level.
 
-Since the 1960s, scientific disciplines have researched happiness, to determine how humans can live happier lives. The scientific pursuit of positive emotion and happiness is the pillar of positive psychology, first proposed in 1998 by Martin E. P. Seligman. 
+Since the 1960s, scientific disciplines have researched happiness, to determine how humans can live happier lives. The scientific pursuit of positive emotion and happiness is the pillar of positive psychology, first proposed in 1998 by Martin E. P. Seligman.
 
 The analysis performs data profiling and analysis for possible action. What countries or regions rank the highest in overall happiness and each of the six factors contributing to happiness? How did country ranks or scores change between the 2015 and 2016 as well as the 2016 and 2017 reports? Did any country experience a significant increase or decrease in happiness?
 The purpose of this project is to analyze the dataset by completing the following parts of the report as follows:/
@@ -39,9 +39,9 @@ The purpose of this project is to analyze the dataset by completing the followin
 *	Visualization
 *	Prediction etc.
 
-What countries or regions rank the highest in overall happiness and each of the six factors contributing to happiness? How did country ranks or scores change between the 2015 and 2016 as well as the 2016 and 2017 reports? Did any country experience a significant increase or decrease in happiness? 
+What countries or regions rank the highest in overall happiness and each of the six factors contributing to happiness? How did country ranks or scores change between the 2015 and 2016 as well as the 2016 and 2017 reports? Did any country experience a significant increase or decrease in happiness?
 
-## Methods 
+## Methods
 Perform exploratory data analysis for examining the data before model selection. The methods I will use are Random Forest, Linear Regression, etc. The Random forest consists of many individual decision trees that operate as an ensemble. Each tree in the random forest spits out a class prediction and the class with the most votes becomes our model’s prediction.
 
 I am planning to do my development on the Jupiter notebook using python. I will be using the notebook as well for the pseudocode. Python packages will be used for developing features, analysis, and testing.
