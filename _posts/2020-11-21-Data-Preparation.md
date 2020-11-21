@@ -1,11 +1,12 @@
-
-
-
-
-
-
-
-
+---
+title: "Data-Preparation"
+date: 2020-09-13
+tags: [data science, data wrangling, messy data]
+header:
+  image: "/images/perceptron/percept.jpg"
+excerpt: "Data Science, Data Wrangling, Messy Data"
+mathjax: "true"
+---
 
 
 # Merging the Data and Storing in a Database/Visualizing Data
