@@ -9,6 +9,7 @@ mathjax: "true"
 ---
 
 
+
 print('//**************************************************************************************************************************')
 print('// DSC510_Final Project-Weather')
 print('// Course: DSC510_Introduction to programming-Python')
