@@ -1,4 +1,3 @@
-
 ---
 title: "Predictive-Analytics-Female Genital Mutilation"
 date: 2020-11-20
@@ -10,8 +9,7 @@ mathjax: "true"
 ---
 
 
-DSC530-T301 Term Project
-[Female Genital Mutilation (FGM)]
+DSC530-T301 Term Project Female Genital Mutilation (FGM)
 The report consists of female genital mutilation (FGM). I think this is an interesting topic with a large dataset under "Tableau Community Forums," but I am going to limit my analysis to some areas. The data of female genital mutilation (FGM) are under UNICEF(United Nations International Children's Fund) website.
 Data Source: 
 (https://community.tableau.com/docs/DOC-10635)?
