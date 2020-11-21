@@ -1,7 +1,7 @@
 
 ---
 title: "Predictive-Analytics-Female Genital Mutilation"
-date: 2020-09-13
+date: 2020-11-20
 tags: [data science, data wrangling, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
@@ -10,12 +10,11 @@ mathjax: "true"
 ---
 
 
-
 DSC530-T301 Term Project
 Female Genital Mutilation (FGM)
 The report consists of female genital mutilation (FGM). I think this is an interesting topic with a large dataset under "Tableau Community Forums," but I am going to limit my analysis to some areas. The data of female genital mutilation (FGM) are under UNICEF(United Nations International Children's Fund) website.
 Data Source: 
-https://community.tableau.com/docs/DOC-10635
+[https://community.tableau.com/docs/DOC-10635]
 ANACONDA NAVIGATOR 
 Jupyter Notebook 6.0.1
 PYTHON 3.74
@@ -31,7 +30,8 @@ Required Packages
 
 
 
-#Data Science
+
+
 #DSC630 Data Exploration
 
 data <- read.csv("C:/Users/14026/Desktop/Data Science Courses 2020/DSC530_11252019/My project_DSC530/fusion_GLOBAL_DATAFLOW_UNICEF_1.0_.PT_F_15-49_FGM+PT_M_15-49_FGM_ELIM+PT_F_0-14_FGM+PT_F_15-49_FGM_ELIM.._(1).csv")
