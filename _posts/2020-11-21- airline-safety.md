@@ -12,24 +12,10 @@ mathjax: "true"
 
 DSC640-T301 - 3.3 Project Task 3: Blog Post
 
-Soukhna Wade
-
-Bellevue University
-
-
-
-
-
-
-DSC640 Bellevue University						07/12/2020
-
-Soukhna Wade
+Bellevue University						
 
 [3.3 Project Task 3: Blog Post](https://souwade2.blogspot.com/2020/07/airline-safety-1985-2014.html)?
 
-
-
- 
 by Soukhna Wade
  
 The aviation industry is the business sector dedicated to manufacturing and operating all types of aircraft. Air traffic controllers, when they are awake, are concerned with aviation safety. This page is to evaluate airline safety using the data for 56 airlines that were in the global top 100 as
