@@ -1,5 +1,5 @@
 ---
-title: "Project2-Applied-Data-Science_World Happiness 2019 using Machine Learning"
+title: "World Happiness 2019 Machine Learning"
 date: 2020-11-20
 tags: [data science, data wrangling, messy data]
 header:
@@ -8,7 +8,9 @@ excerpt: "Data Science, Data Wrangling, Messy Data"
 mathjax: "true"
 ---
 
-### Project 2- DSC680 
+
+
+### Project2 - DSC680 
 
 ### Happiness 2019
 Soukhna Wade
