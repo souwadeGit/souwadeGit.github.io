@@ -1,5 +1,5 @@
 ---
-title: "DATA SCIENCE PROJECT - Project1"
+title: "Project1-Applied-Data-Science-World Happiness 2017 using Linear Regression"
 date: 2020-09-13
 tags: [data science, data wrangling, messy data]
 header:
@@ -37,7 +37,8 @@ The purpose of this project is to analyze the dataset by completing the followin
 
 *	Cleaning
 *	Visualization
-*	Prediction etc.
+* Linear Regression
+*	Prediction
 
 What countries or regions rank the highest in overall happiness and each of the six factors contributing to happiness? How did country ranks or scores change between the 2015 and 2016 as well as the 2016 and 2017 reports? Did any country experience a significant increase or decrease in happiness?
 
