@@ -25,9 +25,7 @@ DSC640 Bellevue University						07/12/2020
 
 Soukhna Wade
 
-3.3 Project Task 3: Blog Post
-
-(https://souwade2.blogspot.com/2020/07/airline-safety-1985-2014.html)?
+[3.3 Project Task 3: Blog Post](https://souwade2.blogspot.com/2020/07/airline-safety-1985-2014.html)?
 
 
 
