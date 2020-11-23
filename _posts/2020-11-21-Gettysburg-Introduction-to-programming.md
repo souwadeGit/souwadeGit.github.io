@@ -7,7 +7,6 @@ header:
 excerpt: "Data Science, Data Wrangling, Messy Data"
 mathjax: "true"
 ---
-
 print('//************************************************************************************************************************')
 print('// File:   Program1: open/calculate words')
 print('// Name:   Soukhna Wade')
@@ -63,5 +62,8 @@ def main():
     pretty_print(word_count_dict)
 if __name__ == "__main__":
     main()                                            # execute only if run as a script
+
+
+
 
 
