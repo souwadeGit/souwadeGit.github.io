@@ -57,11 +57,12 @@ except requests.exceptions.RequestException as exc:
     # catastrophic error. bail.
     print("Error:", exc)
     sys.exit(1)
-
-""" The output file:
+"" The output file:
 
 Please Enter the file Name:swade2
+
 Length of the dictionary: 143
+
 Word         Count        
                      
 ------------------------------
