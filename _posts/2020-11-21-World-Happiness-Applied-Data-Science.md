@@ -1,5 +1,5 @@
 ---
-title: "World-Happiness using Multiple Linear Regression"
+title: "World-Happiness Multiple Linear Regression"
 date: 2020-11-21
 tags: [data science, data wrangling, messy data]
 header:
